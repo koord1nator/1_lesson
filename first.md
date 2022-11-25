@@ -28,3 +28,23 @@
 4. Эстет
 5. Люблю картошечку ФРИ
 
+---
+### Code Block
+```
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Заголовок</title>
+</head>
+<body>
+    <div class="element1">
+        В этом блочном элементе разместим текст первого объекта.
+    </div>
+    <div class="element2">
+        А вот в этом блочном элементе разместим текст второго объекта.
+    </div> 
+</body>
+</html>
+```
+
